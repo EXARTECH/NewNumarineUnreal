@@ -10,6 +10,19 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "JsonBlueprintUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "VaRestX",
+			"Enabled": true
+		},
+		{
+			"Name": "FileToolkitX",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/51ebf65c5f4344fc98886fa94b99e96f"
 		}
 	]
 }
